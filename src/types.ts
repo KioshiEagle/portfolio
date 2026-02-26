@@ -13,7 +13,7 @@ export const MY_PROJECTS: Project[] = [
     category: "Web",
     description: "Refonte complète du site vitrine JCV Dépannage avec GeneratePress et optimisation SEO.",
     tags: ["WordPress", "SEO", "Performances"],
-    githubUrl: "https://github.com/KioshiEagle/depannage-jcv"
+    githubUrl: "https://depannage.jeancharles-vente.fr"
   },
   {
     title: "Projet École Télécom",
